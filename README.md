@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdebayoEmmanuel
 - 👀 I’m interested in MERN Stack development
 - 🌱 I laid my JavaScript foundation at McLaren College
-- 🐝 Junior Software engineer at ALX Africa
+- 🐝 Junior Full Stack Software engineer at ALX Africa
 
 <!---
 AdebayoEmmanuel/AdebayoEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
