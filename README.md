@@ -11,4 +11,8 @@
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AdebayoEmmanuel&count_private=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdebayoEmmanuel&hide=C&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imetroduck)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+
+|               |               |
+| ------------- |:-------------:|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdebayoEmmanuel&hide=C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)       | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imetroduck)](https://github.com/anuraghazra/github-readme-stats) |
