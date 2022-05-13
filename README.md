@@ -13,7 +13,7 @@
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdebayoEmmanuel&hide=C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdebayoEmmanuel&hide=C&layout=compact)](https://github.com/AdebayoEmmanuel?tab=repositories)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
