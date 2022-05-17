@@ -21,4 +21,11 @@
 | [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AdebayoEmmanuel&count_private=true&theme=merko&show_icons=true)](https://github.com/AdebayoEmmanuel?tab=repositories)       | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdebayoEmmanuel&hide=C&layout=compact)](https://github.com/AdebayoEmmanuel?tab=repositories)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   2 hrs 21 mins   ███████████████████████▒░   93.30 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+```
+
 <!--END_SECTION:waka-->
