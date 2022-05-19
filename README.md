@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/dc4e1335b25ab00d32b2665104b1702803cc858e6e069552e0e16e6c28048c13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c" alt="Connect on LinkedIn" data-canonical-src="https://img.shields.io/badge/--linkedin?label=LinkedIn&amp;logo=LinkedIn&amp;style=social" style="max-width: 100%;">
 </a> <a href = "mailto: adebayodemilade7@gmail.com"> <img src="https://img.shields.io/static/v1?label=GMAIL&message=adebayodemilade7@gmail.com&color=red" alt="" style="max-width: 100%;"> </a> </br>
 </div>
----------
+
 ![about me](https://user-images.githubusercontent.com/92952014/168171214-7aa9c292-141d-4aba-9130-f46a4f64c8eb.png)
 
 ---------
