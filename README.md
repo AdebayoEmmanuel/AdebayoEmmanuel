@@ -6,6 +6,7 @@
 </a> <a href = "mailto: adebayodemilade7@gmail.com"> <img src="https://img.shields.io/static/v1?label=GMAIL&message=adebayodemilade7@gmail.com&color=red" alt="" style="max-width: 100%;"> </a> </br>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?AdebayoEmmanuel=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![about me](https://user-images.githubusercontent.com/92952014/168171214-7aa9c292-141d-4aba-9130-f46a4f64c8eb.png)
 
 ---------
