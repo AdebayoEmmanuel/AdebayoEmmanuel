@@ -1,3 +1,4 @@
+## Socials:
 <div>
 <a href = "https://twitter.com/iMeteore_">
   <img src="https://camo.githubusercontent.com/a9078a480f84f4736d1e8ca1fb9e17fd74593705d0dc1470b29d774564f56871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d747769747465723f6c6162656c3d54776974746572266c6f676f3d54776974746572267374796c653d736f6369616c" alt="Follow on Twitter" data-canonical-src="https://img.shields.io/badge/--twitter?label=Twitter&amp;logo=Twitter&amp;style=social" style="max-width: 100%;">
@@ -5,7 +6,6 @@
 <img src="https://camo.githubusercontent.com/dc4e1335b25ab00d32b2665104b1702803cc858e6e069552e0e16e6c28048c13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c" alt="Connect on LinkedIn" data-canonical-src="https://img.shields.io/badge/--linkedin?label=LinkedIn&amp;logo=LinkedIn&amp;style=social" style="max-width: 100%;">
 </a> <a href = "mailto: adebayodemilade7@gmail.com"> <img src="https://img.shields.io/static/v1?label=GMAIL&message=adebayodemilade7@gmail.com&color=red" alt="" style="max-width: 100%;"> </a> </br>
 </div>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F771E2&lines=Top+GitHub+Trophies%3A)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdebayoEmmanuel&theme=onedark&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
