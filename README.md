@@ -7,16 +7,16 @@
 </div>
 
 
-## My Top GitHub Trophies:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F771E2&lines=Top+GitHub+Trophies%3A)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdebayoEmmanuel&theme=onedark&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 ![about me](https://user-images.githubusercontent.com/92952014/168171214-7aa9c292-141d-4aba-9130-f46a4f64c8eb.png)
 
 ---------
-## Tech Stack:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F72F&lines=Tech+Stack%3A)](https://git.io/typing-svg)\
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-## Stats from my last few days of activity:
+# Recent Stats: 
 
 <!--START_SECTION:waka-->
 
