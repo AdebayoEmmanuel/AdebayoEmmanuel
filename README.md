@@ -34,3 +34,4 @@ Vim Script   21 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 ---------
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdebayoEmmanuel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" />
