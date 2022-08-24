@@ -30,3 +30,4 @@ Other        7 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 <!--END_SECTION:waka-->
 ---------
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdebayoEmmanuel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" />
+<img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdebayoEmmanuel&show_icons=true&locale=en&layout=compact&background=060A0CD0&theme=radical" alt="AdebayoEmmanuel" />
