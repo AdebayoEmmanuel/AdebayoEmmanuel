@@ -22,9 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
-
-Other                   >>>>>>>>>>>>>>>>>>>>>>>>-   95.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
