@@ -10,7 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F771E2&lines=Top+GitHub+Trophies%3A)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdebayoEmmanuel&theme=onedark&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-![about me](https://user-images.githubusercontent.com/92952014/168171214-7aa9c292-141d-4aba-9130-f46a4f64c8eb.png)
 
 ---------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F72F&lines=Tech+Stack%3A)](https://git.io/typing-svg)\
