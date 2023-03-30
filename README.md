@@ -25,9 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                   >>>>>>>>>>>>>------------   52.74 %
-JSON                     >>>>>>>>>>>--------------   43.84 %
-Text                     >------------------------   03.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
