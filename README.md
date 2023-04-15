@@ -25,7 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python                       >>>>>>>>>>>>>>>>>>>>>>>>-   94.60 %
+Vim Script                   >------------------------   05.40 %
 ```
 
 <!--END_SECTION:waka-->
