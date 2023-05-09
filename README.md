@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                   >>>>>>>>>>>>>>>----------   61.85 %
-Python                       >>>>>>>>>>---------------   38.15 %
+JavaScript                   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
