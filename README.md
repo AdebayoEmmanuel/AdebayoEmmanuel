@@ -25,7 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#                      >>>>>>>>>>>>>>-----------   56.80 %
+JSON                    >>>>>>>------------------   29.20 %
+Other                   >>>>---------------------   14.00 %
 ```
 
 <!--END_SECTION:waka-->
