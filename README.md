@@ -25,7 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML                   >>>>>>>>>>>>>>>>>>>>>>>>>   99.83 %
+CSS                    -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
