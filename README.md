@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   >>>>>>>>>>>>>>>>>>>>>>>>>   98.60 %
-Bash                       -------------------------   01.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
