@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                   >>>>>>>>>>>>>>>>>>>>>>>>-   97.04 %
-Git                          >------------------------   02.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
