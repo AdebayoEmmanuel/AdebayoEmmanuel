@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep                   >>>>>>>>>>>>>>>>>>>>>>---   88.89 %
-JSON                    >>>----------------------   11.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
