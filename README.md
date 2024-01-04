@@ -25,7 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                   >>>>>>>>>>>>>>>>>>>>>>---   87.84 %
+Text                     >>>----------------------   12.16 %
 ```
 
 <!--END_SECTION:waka-->
