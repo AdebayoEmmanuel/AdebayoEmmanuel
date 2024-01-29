@@ -2,6 +2,7 @@
 [![Follow on Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/emmanuel-adebayo-cloud-doc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:%20adebayodemilade7@gmail.com)
 
+
 ![mad-designer](https://user-images.githubusercontent.com/92952014/208402760-880e79d4-7fcf-4a9b-ab12-f914fbb11070.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F771E2&lines=Top+GitHub+Trophies%3A)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdebayoEmmanuel&theme=onedark&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
