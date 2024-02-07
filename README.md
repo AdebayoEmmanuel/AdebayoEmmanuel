@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                     >>>>>>>>>>>>>>>>>>>>-----   79.77 %
-TypeScript                   >>>>>--------------------   20.23 %
+Markdown                   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
