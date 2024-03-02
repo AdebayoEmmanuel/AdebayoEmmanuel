@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   >>>>>>>>>>>>>>>>---------   65.66 %
-JSON                       >>>>>>>>-----------------   30.47 %
-CSS                        >------------------------   03.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
