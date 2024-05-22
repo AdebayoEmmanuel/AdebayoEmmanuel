@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                   >>>>>>>>>>>>>------------   53.26 %
-JSON                         >>>>>>>>>>>--------------   43.18 %
-Bash                         >------------------------   03.38 %
-Markdown                     -------------------------   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
