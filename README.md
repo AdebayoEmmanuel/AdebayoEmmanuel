@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                   >>>>>>>>>>>>>>>>>>>>>>---   87.73 %
-Markdown                     >>>----------------------   12.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
