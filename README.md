@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                   >>>>>>>>>>>>>>>>>>>>>>>>-   97.79 %
-Diff                     >------------------------   02.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
