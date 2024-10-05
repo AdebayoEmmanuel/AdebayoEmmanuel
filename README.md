@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash                    >>>>>>>>>>>>>>>>>>>>-----   79.31 %
+Other                   >>>>>--------------------   20.47 %
+INI                     -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
