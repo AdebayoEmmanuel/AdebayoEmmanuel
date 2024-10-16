@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON                         >>>>>>>>>>>>>>>>>>-------   70.73 %
+JavaScript                   >>>>---------------------   17.95 %
+HTML                         >>>----------------------   11.32 %
 ```
 
 <!--END_SECTION:waka-->
