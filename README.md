@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PowerShell                   >>>>>>>>>>>>>>>>>--------   69.43 %
+Other                        >>>>>>>------------------   29.12 %
+Markdown                     -------------------------   01.45 %
 ```
 
 <!--END_SECTION:waka-->
