@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                       >>>>>>>>>>>>>>>>>>>>>>---   88.71 %
-JavaScript                   >>>----------------------   11.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
