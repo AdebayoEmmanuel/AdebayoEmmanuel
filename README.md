@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash                         >>>>>>>>>>>>>>>----------   58.50 %
+Python                       >>>>>>>>>----------------   37.23 %
+Other                        >------------------------   03.83 %
+PowerShell                   -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
