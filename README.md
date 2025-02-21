@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                    >>>>>>>>>>>>>>>>>>-------   73.49 %
+XML                   >>>>>>>------------------   26.51 %
 ```
 
 <!--END_SECTION:waka-->
