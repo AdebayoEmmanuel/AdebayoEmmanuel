@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                       >>>>>>>>>>>>>------------   51.51 %
-YAML                         >>>>>>>>>>>>-------------   48.45 %
-PowerShell                   -------------------------   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
