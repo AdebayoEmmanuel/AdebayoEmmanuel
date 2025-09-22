@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown                                   >>>>>>>>>>>>>>>----------   59.19 %
+YAML                                       >>>>>>-------------------   25.82 %
+Docker                                     >>-----------------------   09.39 %
+Text                                       >------------------------   02.95 %
+Nginx configuration file                   >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
