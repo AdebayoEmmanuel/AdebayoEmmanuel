@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                    >>>>>>>>>>>>>>>>>>>>>>>>>   98.18 %
-Other                   -------------------------   01.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
