@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML                     >>>>>>>>>>>>-------------   46.30 %
+Go                       >>>>>>>>>>>--------------   45.57 %
+Docker                   >>-----------------------   08.14 %
 ```
 
 <!--END_SECTION:waka-->
