@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                         >>>>>>>>>>>>>>>>>>>>-----   79.82 %
-YAML                             >>>>---------------------   16.18 %
-Other                            >------------------------   04.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
