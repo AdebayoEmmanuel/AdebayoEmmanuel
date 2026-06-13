@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML                               >>>>>>>>>>>>>>>----------   58.11 %
+Other                              >>>>>>>>>>---------------   39.59 %
+PowerShell                         >------------------------   02.30 %
+Markdown                           -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
